@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Python developer.
-I have 3 years of programming experience, mostly in Python.
-I have strong knowledge of using Django, You can see some of my repositories.
-Good understanding of JavaScript.
-Familiar with the React.
+-I am a Python developer.
+-I have 3 years of programming experience, mostly in Python.
+-I have strong knowledge of using Django, You can see some of my repositories.
+-Good understanding of JavaScript.
+-Familiar with the React.
