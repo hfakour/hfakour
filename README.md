@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I am a Python developer.\
-I have 4 years of programming experience, mostly in Python.\
-I have strong knowledge of using Django, You can see some of my repositories.\
-Good understanding of JavaScript.\
-Familiar with the React.
