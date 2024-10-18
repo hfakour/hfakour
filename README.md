@@ -1,4 +1,4 @@
-# Hi there! I'm Rose 👋
+# Hi there! I'm Hassan 👋
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Data Scientist** with years of experience crafting dynamic web applications and making sense of complex data.
 
