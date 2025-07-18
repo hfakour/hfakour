@@ -2,34 +2,35 @@
 
 Welcome to my GitHub profile.
 
-I am a **Mobile App Developer (Flutter)** and **Data Scientist** with several years of experience building robust mobile applications and delivering actionable insights from data.
+I'm passionate about technology and learning by doing.  
+I have hands-on experience with Python and data science, and I'm always exploring new areas including mobile technologies, web development, and artificial intelligence.
 
 ## About Me
-- I specialize in **Python** development and **mobile app development with Flutter**, focusing on both cross-platform mobile solutions and data science.
-- My core stack includes **Flutter**, **Dart**, **Python**, **NumPy**, **Pandas**, and **Matplotlib**—leveraging these technologies to create scalable mobile apps and perform advanced data analysis.
-- I am actively engaged in freelance projects and enjoy collaborating on innovative and impactful ideas.
+- I work primarily with **Python** for data analysis and automation.
+- I have a strong interest in a wide range of technologies: data science, web development, mobile apps, and AI.
+- I believe in project-based learning—building real things is the best way to grow.
 
 ## Technologies & Tools
-- **Languages:** Dart, Python
-- **Frameworks:** Flutter
+- **Languages:** Python
 - **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
 - **Databases:** PostgreSQL, MongoDB
-- **Tools:** Docker, Git, Jupyter Notebooks, REST APIs, Celery
+- **Other Tools:** Docker, Git, Jupyter Notebooks, REST APIs
 
 ## Currently Learning
-- Advanced machine learning techniques
-- Architecting efficient API-driven mobile services
+- Data science best practices and advanced Python
+- Principles of mobile app development
+- Web frameworks and API design
+- Machine learning and AI concepts
 
 ## Interests
-- Developing data-driven mobile applications
-- Mentoring and teaching aspiring developers and data scientists
-- Workflow automation and performance optimization
+- Building practical, data-driven solutions
+- Learning new technologies and frameworks by doing real projects
+- Automation and workflow optimization
 
 ## Contact
-- LinkedIn: [hfakour_](#)
-- Portfolio: [HassanFakour.com](#)
+- Telegram: [@hfakour3](https://t.me/hfakour3)
 
 ---
 
-Thank you for visiting my profile.  
-I'm always open to connecting with fellow developers, data professionals, and collaborators.
+Thank you for visiting my profile!  
+If you share similar interests or want to collaborate, feel free to reach out on Telegram.
