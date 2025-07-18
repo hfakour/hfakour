@@ -1,14 +1,14 @@
 # Hassan Fakour
 
-Welcome to my GitHub profile.
+Hi there! Thanks for stopping by my GitHub.
 
-I'm passionate about technology and learning by doing.  
-I have hands-on experience with Python and data science, and I'm always exploring new areas including mobile technologies, web development, and artificial intelligence.
+I’m someone who loves exploring technology and learning new skills by building real things. Whether it’s data science, web, mobile, or AI, I enjoy getting my hands dirty and figuring things out as I go.
 
 ## About Me
-- I work primarily with **Python** for data analysis and automation.
-- I have a strong interest in a wide range of technologies: data science, web development, mobile apps, and AI.
-- I believe in project-based learning—building real things is the best way to grow.
+- I’m currently a Master’s student at Shahid Beheshti University.
+- I’m always looking for projects and opportunities to work alongside professional developers, so I can pick up tips, tricks, and industry best practices.
+- My main background is in **Python** and data science, but I’m curious about all kinds of tech: web development, mobile apps, and AI.
+- I believe the best way to learn is by doing and collaborating on real projects.
 
 ## Technologies & Tools
 - **Languages:** Python
@@ -32,5 +32,4 @@ I have hands-on experience with Python and data science, and I'm always explorin
 
 ---
 
-Thank you for visiting my profile!  
-If you share similar interests or want to collaborate, feel free to reach out on Telegram.
+If you’re interested in similar things or just want to chat about tech, feel free to reach out on Telegram!
